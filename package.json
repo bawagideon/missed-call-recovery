@@ -1,0 +1,12 @@
+{
+  "name": "@gideon/missed-call-recovery",
+  "version": "1.0.0",
+  "description": "Missed-Call Revenue Recovery: Intercepts unanswered business phone calls and triggers instant automated SMS/WhatsApp booking recovery in under 5 seconds.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "node src/index.js"
+  },
+  "author": "Gideon Autonomous Workforce",
+  "license": "MIT"
+}
