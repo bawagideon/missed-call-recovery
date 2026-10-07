@@ -8,6 +8,17 @@
 
 ---
 
+## 🚀 Live Interactive Simulator & Proof
+
+[![Missed-Call Revenue Recovery Live Interactive Simulator](assets/screenshot.png)](https://gideonbawa-website.netlify.app/simulators/missed-call-recovery/)
+
+* 🌐 **Live In-Browser Simulator:** [https://gideonbawa-website.netlify.app/simulators/missed-call-recovery/](https://gideonbawa-website.netlify.app/simulators/missed-call-recovery/)
+* 💼 **Portfolio Showcase:** [https://gideonbawa-website.netlify.app/#work](https://gideonbawa-website.netlify.app/#work)
+* 🛡️ **Verified QA Evidence:** HMAC-SHA256 Signed Contract (`ev-qa-contract-1791285928367-missed-call-recovery`)
+
+---
+
+
 ## 💸 Commercial Problem & Economic Pain
 When an urgent prospect calls a dental clinic, roofing crew, or legal practice and reaches voicemail, **85% hang up and call the next competitor on Google Maps**.
 A single missed call represents **$2,500 to $12,000 in lost patient/contract lifetime value**.
